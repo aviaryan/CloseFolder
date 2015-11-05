@@ -1,0 +1,3 @@
+[
+	{ "caption": "Close Folder", "command": "close_folder_dirs", "args": {"dirs": []} }
+]
