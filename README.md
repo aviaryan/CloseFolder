@@ -5,8 +5,9 @@ A simple Sublime Text plugin to close all open files of current directory or all
 
 ### Motivation
 
-1. When I take part in a coding contest, I create a folder for it and then keep all related files in there. By the end of the contest, I easily have 10+ tabs opened for it. This plugin helps me remove them all at once.
-2. When doing web development, the tab count easily shoots up to 30+ in no time. By this time, figuring each tab starts becoming difficult as only few characters of the filename can be seen. With this I can quickly close an *old* folder (which I may not need now) and generate some room.
+1. When doing web development project, the tab count easily shoots up to 30+ in no time. By this time, figuring each tab starts becoming difficult as only few characters of the filename can be seen. With this I can quickly close an *old* folder (which I may not need now) and generate some room.
+2. I keep all my college semester lab work in a single project. Whenever I need to make some room, I close a past 'lab' folder.
+3. When I take part in a coding contest/marathon, I create a folder for it and then keep all related files in there. By the end of the contest, I easily have 10+ tabs opened for it. This plugin helps me remove them all at once.
 
 
 ### Installing
