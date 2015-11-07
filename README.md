@@ -16,7 +16,7 @@ Search for `CloseFolder` and install it via [Package Control](https://packagecon
 
 OR
 
-[Download this repo](https://github.com/aviaryan/CloseFolder/archive/master.zip), extract it and then place *CloseFolder* folder in Packages directory of Sublime Text.
+[Download this repo](https://github.com/aviaryan/CloseFolder/archive/master.zip), extract it and then place *CloseFolder* folder in Packages directory of ST.
 
 
 ### Using
