@@ -12,13 +12,11 @@ A simple Sublime Text plugin to close all open files of current directory or all
 
 ### Installing
 
-[Download this repo](https://github.com/aviaryan/CloseFolder/archive/master.zip), extract it and then place CloseFolder folder in Packages directory of Sublime Text.
+Search for `CloseFolder` and install it via [Package Control](https://packagecontrol.io).
+
 OR
 
-Go to the Packages directory of Sublime Text and open terminal there. Then execute
-```
-git clone https://github.com/aviaryan/CloseFolder
-```
+[Download this repo](https://github.com/aviaryan/CloseFolder/archive/master.zip), extract it and then place *CloseFolder* folder in Packages directory of Sublime Text.
 
 
 ### Using
