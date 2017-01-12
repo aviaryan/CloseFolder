@@ -27,3 +27,8 @@ There are 2 commands in this plugin.
 
 2. `close_folder_dirs `- Closes all files which are inside the selected directory, recursively. This can be activated from the **sidebar** by right clicking on the folder and selecting 'Close Folder' option.
 
+
+### Screenshots
+
+| ![screen shot 2017-01-12 at 5 56 46 pm](https://cloud.githubusercontent.com/assets/4047597/21889999/9fce05d4-d8f1-11e6-94d1-76c0c05dc5e0.png) | ![screen shot 2017-01-12 at 6 02 22 pm](https://cloud.githubusercontent.com/assets/4047597/21890001/a0ab27f2-d8f1-11e6-9941-b12e6d90f9c1.png) |
+|----|----|
