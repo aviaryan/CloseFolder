@@ -1,0 +1,3 @@
+[
+	{ "command": "close_folder", "caption": "CloseFolder: Close all files in this folder recursively" }
+]
