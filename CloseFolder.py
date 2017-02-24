@@ -12,7 +12,7 @@ class CloseFolder(sublime_plugin.TextCommand):
 		# use os.path.abspath
 		dirname = os.path.dirname(self.view.file_name())
 		for vw in views:
-			if os.path.dirname(vw.file_name()) == dirname:
+			if os.path.dirname(vw.file_name()).find(dirname) == 0:
 				vw.close()
 
 
