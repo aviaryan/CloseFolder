@@ -23,7 +23,10 @@ OR
 
 There are 2 commands in this plugin.
 
-1. `close_folder` - Closes all files which are in the same directory as the file opened in the active tab. This can be activated via right clicking in the *Sublime Text editing area* and selecting 'Close Folder' option.
+1. `close_folder` - Closes all files which are in the same directory (& below) as the file opened in the active tab. This can be activated by following ways.
+
+	1. Right click in the *Sublime Text editing area* and select 'Close Folder' option.
+	2. Open Command Palette (Ctrl-Shift-P) and run `CloseFolder: Close all files in this folder recursively`.
 
 2. `close_folder_dirs `- Closes all files which are inside the selected directory, recursively. This can be activated from the **sidebar** by right clicking on the folder and selecting 'Close Folder' option.
 
