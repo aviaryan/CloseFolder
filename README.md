@@ -34,4 +34,6 @@ There are 2 commands in this plugin.
 ### Screenshots
 
 | ![screen shot 2017-01-12 at 5 56 46 pm](https://cloud.githubusercontent.com/assets/4047597/21889999/9fce05d4-d8f1-11e6-94d1-76c0c05dc5e0.png) | ![screen shot 2017-01-12 at 6 02 22 pm](https://cloud.githubusercontent.com/assets/4047597/21890001/a0ab27f2-d8f1-11e6-9941-b12e6d90f9c1.png) |
+| ![stcp](https://cloud.githubusercontent.com/assets/4047597/23291911/b3a75b6c-fa81-11e6-9257-409f00d0aeae.png) | ![potato](https://cloud.githubusercontent.com/assets/4047597/23291941/e9c05776-fa81-11e6-886c-c2da6d44e4d1.jpg)
+ |
 |----|----|
