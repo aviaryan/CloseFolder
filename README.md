@@ -1,5 +1,8 @@
 ## CloseFolder Sublime Text plugin
 
+[![Package Control](https://img.shields.io/packagecontrol/dt/CloseFolder.svg)](https://packagecontrol.io/packages/CloseFolder)
+[![GitHub tag](https://img.shields.io/github/tag/aviaryan/CloseFolder.svg)](https://github.com/aviaryan/CloseFolder/releases)
+
 A simple Sublime Text plugin to close all open files of current directory or all open files inside some directory. Supports Sublime Text 2 and 3.
 
 
